@@ -1,0 +1,13 @@
+594ECCCC61C0648D60C198F79A074377
+
+
+Define a servo on digital pin 2 (Must be done prior to positioning a servo. 'servo=0' means servo instance 0, possible values are 0 - 5, 'pin=2' means digital pin 2):
+http://us01.proxy.teleduino.org/api/1.0/328.php?k={594ECCCC61C0648D60C198F79A074377}&r=defineServo&servo=0&pin=2
+
+
+
+Set the position of servo 0 to 15 ('servo=0' means servo instance 0, 'position=15' means the position to set, possible values are 0 - 180):
+http://us01.proxy.teleduino.org/api/1.0/328.php?k={594ECCCC61C0648D60C198F79A074377}&r=setServo&servo=0&position=15
+
+Set the position of servo 0 to 175 ('servo=0' means servo instance 0, 'position=175' means the position to set, possible values are 0 - 180):
+http://us01.proxy.teleduino.org/api/1.0/328.php?k={594ECCCC61C0648D60C198F79A074377}&r=setServo&servo=0&position=175

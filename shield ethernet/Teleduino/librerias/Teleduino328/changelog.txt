@@ -1,0 +1,27 @@
+328-0.6.9 (2014-02-16)
+- Added save parameter to setDigitalOutput with saves output as preset
+- Added additional check to where EEPROM.write() is used so that it only writes if the new value is not equal to the existing value
+
+328-0.6.8 (2013-09-11)
+- Updated naming conventions (Teleduino -> Teleduino328) to allow for versions which support other board types.
+- Minor change to reset logic
+- Added method loadPresets (0x17)
+- Added method setDigitalOutputs (0x26)
+
+328-0.6.7 (2012-07-28)
+- Added optional parameter to method setDigitalOutput (0x21). A three byte integer value can be appended which sets an expire timeout on the output being set.
+
+328-0.6.6 (2012-06-04)
+- Applied fix to ethernet based sketches to make them compatible with the Arduino IDE 1.0.1.
+
+328-0.6.5 (2012-05-08)
+- Added method getServo (0x52).
+- Added support for the Wire (TWI/I2C) library and related methods:
+  - defineWire (0x70)
+  - setWire (0x71)
+  - getWire (0x72)
+- Added example sketch TeleduinoWire.ino.
+- Updated example sketch TeleduinoEthernetClientProxy.ino so that the default server port is 5353 rather than 53. Port 53 can still be used if set by the user.
+
+328-0.6.4 (2012-04-01)
+- Initial public release.

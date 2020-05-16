@@ -1,0 +1,8 @@
+OpenChord X RMIT Exertion Games Lab UnoJoy Joystick
+
+A, B
+C, X
+Y, Z
+R Trigger 2
+L Trigger 2
+DPAD Up, Down, Left, Right

@@ -1,0 +1,13 @@
+594ECCCC61C0648D60C198F79A074377
+
+
+Define the pin mode of digital pin 3 (Must be done once per boot prior to setting digital outputs. 'pin=3' mean pin 3, 'mode=1' means OUTPUT):
+http://us01.proxy.teleduino.org/api/1.0/328.php?k={594ECCCC61C0648D60C198F79A074377}&r=definePinMode&pin=3&mode=1
+
+
+
+Set the output of digital pin 3 to HIGH ('pin=3' means pin 3, 'output=1' means HIGH):
+http://us01.proxy.teleduino.org/api/1.0/328.php?k={594ECCCC61C0648D60C198F79A074377}&r=setDigitalOutput&pin=3&output=1
+
+Set the output of digital pin 3 to LOW ('pin=3' means pin 3, 'output=0' means LOW):
+http://us01.proxy.teleduino.org/api/1.0/328.php?k={594ECCCC61C0648D60C198F79A074377}&r=setDigitalOutput&pin=3&output=0
