@@ -6,6 +6,10 @@ Varios proyectos con arduino realizados para la Universidad de Medellin, Comunic
 # Arduino MIDI
 Proyecto para la materia de Sonido de Audio y video, convirtiendo los arduinos en controladores MIDI, para tenerlos conectados aun computador y FL Studio, alli actuaban con diferentes sintetizadores, y moviendo el audio en la cuadrafonia, cada tubo es un sintetizador diferente, que maneja con el sensor de arriba, diferentes notas, y con el sensor del lado, el volumen de estas notas.  El proyecto se basa en un instrumento llamado El Theremín.
 
+Imagenes y videos del proyecto:
+
+https://www.behance.net/gallery/97304895/The-Shape-Of-Sound
+
 
 
 # Shield Ethernet
