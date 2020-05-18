@@ -25,4 +25,5 @@ Proyecto para la materia Sensores y Espacialidad, convirtiendo un Arduino a que 
 El proyecto completo y su paso a paso:
 
 -Simple boton y Joystick https://www.instructables.com/id/Potenciometro-Botones-Y-Arduino-UNO-Como-Joystick/
+
 -Proyecto completo Arcade UnoJoy https://www.instructables.com/id/Control-Arcade-Arduino-UNO/
